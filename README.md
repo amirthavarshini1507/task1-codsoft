@@ -101,3 +101,5 @@ Bot: Python is a high-level programming language used for AI, Web Development, D
 You: Bye
 
 Bot: Goodbye! Have a great day.
+    
+👨‍💻 Author Amirthavarshini
