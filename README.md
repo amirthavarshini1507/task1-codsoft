@@ -1,4 +1,4 @@
-# task1-codsoft
+CodSoft AI Internship — Task 1 ✦
 
 
 🤖 Rule-Based Chatbot
