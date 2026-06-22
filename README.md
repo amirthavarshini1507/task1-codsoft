@@ -38,7 +38,7 @@ _______
 
 🛠️ Tech Stack
 
-🐍 Python 3
+🐍 Python 3.13
 
 🧠 Rule-Based Logic
 
