@@ -6,9 +6,7 @@ CodSoft AI Internship — Task 1 ✦
 📌 Overview
 
 A simple yet intelligent Rule-Based Chatbot developed using Python. The chatbot responds to user queries based on predefined rules and pattern matching techniques. It provides quick and accurate responses for common questions, making it an excellent beginner project for understanding chatbot development and Natural Language Processing (NLP) concepts.
-
-
----
+____________________________________
 
 ✨ Highlights
 
